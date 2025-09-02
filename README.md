@@ -21,11 +21,13 @@ This is a simple mini e-commerce web application build with HTML, CSS, Bootstrap
 
 ## Project Structure
 
-Final-Project
-    login.html      # Login Page
-    products.html   # Products Listing Page
-    styles.css      # Custom Style (Glassmorphism Style)
-    README.md       # Project Information
+```
+Final-Project/
+├── login.html      # Login Page
+├── products.html   # Products Listing Page
+├── styles.css      # Custom Style (Glassmorphism Style)
+└── README.md       # Project Information
+```
 
 ## Screenshots
 
